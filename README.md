@@ -8,8 +8,7 @@
 ## Skills & Technologies
 | Category | Technologies |
 | Languages | C#, Python, JavaScript, HTML, CSS |
-| Frameworks & Styling | React, Bootstrap, Tailwind CSS |
-| Databases & Tools | SQL, Microsoft SQL Server, Git, GitHub, VS Code |
+| Frameworks & Styling | Databases & Tools | SQL, Microsoft SQL Server, Git, GitHub, VS Code |
 
 ## Contact
 - 💼 GitHub: [@mahjabeen1144-debug](https://github.com/mahjabeen1144-debug)
