@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Mah Jabeen 👋
 
-<!--
-**mahjabeen1144-debug/mahjabeen1144-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 Undergraduate Software Engineering student at UET Lahore.
+- 🎨 Creative developer and digital creator known online as **the_code_poet**.
+- 🌱 Passionate about building web applications, exploring artificial intelligence, and crafting clean code.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+| Category | Technologies |
+| Languages | C#, Python, JavaScript, HTML, CSS |
+| Frameworks & Styling | React, Bootstrap, Tailwind CSS |
+| Databases & Tools | SQL, Microsoft SQL Server, Git, GitHub, VS Code |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- 💼 GitHub: [@mahjabeen1144-debug](https://github.com/mahjabeen1144-debug)
