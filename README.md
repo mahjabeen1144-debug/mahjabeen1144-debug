@@ -7,7 +7,7 @@
 
 ## Skills & Technologies
 | Category | Technologies |
-| Languages | C#, Python, JavaScript, HTML, CSS |
+| Languages | C#, Python, JavaScript, HTML, CSS 
 | Frameworks & Styling | Databases & Tools | SQL, Microsoft SQL Server, Git, GitHub, VS Code |
 
 ## Contact
